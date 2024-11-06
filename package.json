@@ -10,5 +10,8 @@
   "description": "",
   "devDependencies": {
     "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "fp-ts": "^2.16.9"
   }
 }
